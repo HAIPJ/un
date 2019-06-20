@@ -1,0 +1,1 @@
+module.exports.qs='lid=5&name=dell'
